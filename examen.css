@@ -1,0 +1,74 @@
+body{
+    background-color: bisque;
+}
+.titulo{
+    text-align: center;
+    font-size: 25;
+    background-color: beige;
+    padding: 10px;
+}
+.rojo{
+    color: red;
+}
+h2{
+    background-color: burlywood;
+    text-align: right;
+    font-size: 20px;
+    margin: 13px;
+}
+.verde{
+    color: green;
+}
+p.imagen{
+    text-align: center;
+}
+.grupo{
+    border: 3px;
+    border-style:dashed;
+    border-color: brown;
+    border-bottom: 3px;
+    border-bottom-color: red;
+    border-bottom-style: dotted;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+img{
+    margin: 20px;
+    width: 100px;
+    float: left;
+    border: 20px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: brown;
+}
+.info{
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: yellowgreen;
+    border:3px;
+    border-style: solid;
+    border-top-color: green;
+    border-left-color: yellow;
+    border-bottom:0px;
+    border-right-color: blue;
+}
+.pInfoRojo{
+    text-align: right;
+    color: red;
+
+}
+.pInfoAzul{
+    text-align: left;
+    color: blue;
+}
+.azul{
+    color: green;
+    background-color: aquamarine;
+}
+.negro{
+    color: white;
+    background-color: black;
+    text-align: right;
+}
+
